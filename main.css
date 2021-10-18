@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+.progress {
+    height: 2px;
+}
+.month {
+    background-color: rgb(122, 122, 122);
+    width: 1.5vw;
+    height: 1.5vw;
+}
+#year {
+    margin-left:2%;
+    width: 5vw;
+    height: 5vw;
+    font-size: 1.5vw;
+}
+#jan {
+    margin-left:12%
+}
+#feb {
+    margin-left:20%
+}
+#mar {
+    margin-left:28%
+}
+#apr {
+    margin-left:36%
+}
+#may {
+    margin-left:44%
+}
+#jun {
+    margin-left:52%
+}
+#jul {
+    margin-left:60%
+}
+#aug {
+    margin-left:68%
+}
+#sep {
+    margin-left:76%
+}
+#oct {
+    margin-left:84%
+}
+#nov {
+    margin-left:92%
+}
+#dec {
+    margin-left:100%
+}
