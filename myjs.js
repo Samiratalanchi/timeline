@@ -13,4 +13,5 @@ function displayTimeLine() {
     document.getElementById("nov").style.animation="changecolor 100ms linear forwards 11040ms";
     document.getElementById("dec").style.animation="changecolor 100ms linear forwards 12000ms";
 
+    
 }

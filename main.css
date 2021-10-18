@@ -73,5 +73,8 @@ body {
 }
 @keyframes changecolor {
     0% { background-color: #d2d2d2}
-    100% { background-color: #ff4c29;}
+    100% { 
+        background-color: #ff4c29;
+        box-shadow: 3px 3px 5px #e28a78;
+    }
 }
