@@ -1,15 +1,20 @@
 body {
-    background-color: black;
+    background-color: #334756;
 }
 .progress {
     height: 2px;
+    background-color: #d2d2d2;
+}
+.progress-bar {
+    background-color: #ff4c29;
 }
 .month {
-    background-color: rgb(122, 122, 122);
+    background-color: #d2d2d2;
     width: 1.5vw;
     height: 1.5vw;
 }
 #year {
+    background-color: #2c394b;
     margin-left:2%;
     width: 5vw;
     height: 5vw;
@@ -65,4 +70,8 @@ body {
     84% {width: 84%;}
     92% {width: 92%;}
     100% {width: 100%;}
+}
+@keyframes changecolor {
+    0% { background-color: #d2d2d2}
+    100% { background-color: #ff4c29;}
 }
