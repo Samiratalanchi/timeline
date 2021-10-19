@@ -91,4 +91,11 @@ body {
 }
 .card {
     width: 20vw;
+    background-color: #334756;
+    background-image: linear-gradient(to right bottom,rgba(255,255,255,0.3) 30%,rgba(248, 248, 248, 0));
+    border: 2px solid rgba(255,255,255,0.35);
+    color: white;
+}
+#card-jan {
+    border-radius: 0px 30px 30px 30px;
 }
