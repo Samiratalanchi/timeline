@@ -1,5 +1,6 @@
 function displayTimeLine() {
-    document.getElementById("progress-bar").style.animation="timeline 12s forwards linear";
+    document.getElementById("progress").style.animation="timeline 12s forwards linear";
+
     document.getElementById("jan").style.animation="changecolor 100ms linear forwards 1440ms";
     document.getElementById("feb").style.animation="changecolor 100ms linear forwards 2400ms";
     document.getElementById("mar").style.animation="changecolor 100ms linear forwards 3360ms";
@@ -13,5 +14,6 @@ function displayTimeLine() {
     document.getElementById("nov").style.animation="changecolor 100ms linear forwards 11040ms";
     document.getElementById("dec").style.animation="changecolor 100ms linear forwards 12000ms";
 
+    
     
 }
