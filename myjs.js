@@ -2,6 +2,7 @@ function displayTimeLine() {
     document.getElementById("progress").style.animation="timeline 12s forwards linear";
 
     document.getElementById("year").style.animation="shadow 100ms linear forwards";
+    
     document.getElementById("jan").style.animation="changecolor 100ms linear forwards 1440ms";
     document.getElementById("feb").style.animation="changecolor 100ms linear forwards 2400ms";
     document.getElementById("mar").style.animation="changecolor 100ms linear forwards 3360ms";
