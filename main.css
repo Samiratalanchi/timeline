@@ -85,3 +85,6 @@ body {
     width: 0%;
     box-shadow: 0px -1px 5px 4px #e28a78
 }
+.card {
+    width: 20vw;
+}
